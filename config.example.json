@@ -1,0 +1,11 @@
+{
+  "email_on_upgrades": true,
+  "email_on_maxed_items": true,
+  "email_on_player_changes": true,
+  "email_on_achievement_changes": true,
+
+  "include_progress_summary": true,
+  "include_maxed_summary": true,
+  "include_player_summary": true,
+  "include_achievement_summary": true
+}
