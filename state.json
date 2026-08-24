@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-08-24T11:43:03.734200+00:00",
+  "savedAt": "2026-08-24T12:55:00.804183+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -7,13 +7,13 @@
     "expLevel": 236,
     "trophies": 0,
     "bestTrophies": 5070,
-    "warStars": 1839,
+    "warStars": 1845,
     "builderHallLevel": 10,
     "builderBaseTrophies": 4908,
     "bestBuilderBaseTrophies": 5121,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 515,
+    "donations": 570,
     "donationsReceived": 536,
     "clanCapitalContributions": 3807633,
     "clan": {
@@ -1055,9 +1055,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 5731,
+      "value": 5734,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 5731",
+      "completionInfo": "Total obstacles removed: 5734",
       "village": "home"
     },
     {
@@ -1143,9 +1143,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 98287,
+      "value": 98342,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 98287",
+      "completionInfo": "Total capacity donated: 98342",
       "village": "home"
     },
     {
@@ -1159,9 +1159,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 65118036,
+      "value": 65119896,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 65118036",
+      "completionInfo": "Total Dark Elixir looted: 65119896",
       "village": "home"
     },
     {
@@ -1191,17 +1191,17 @@
     {
       "name": "War Hero",
       "stars": 3,
-      "value": 1839,
+      "value": 1845,
       "target": 1000,
-      "completionInfo": "Total Stars scored for clan in Clan War battles: 1839",
+      "completionInfo": "Total Stars scored for clan in Clan War battles: 1845",
       "village": "home"
     },
     {
       "name": "Clan War Wealth",
       "stars": 3,
-      "value": 1902010353,
+      "value": 1904568850,
       "target": 100000000,
-      "completionInfo": "Total Gold collected in Clan War bonuses: 1902010353",
+      "completionInfo": "Total Gold collected in Clan War bonuses: 1904568850",
       "village": "home"
     },
     {
@@ -1311,9 +1311,9 @@
     {
       "name": "Well Seasoned",
       "stars": 3,
-      "value": 199170,
+      "value": 199470,
       "target": 50000,
-      "completionInfo": "Total Season Challenges points: 199170",
+      "completionInfo": "Total Season Challenges points: 199470",
       "village": "home"
     },
     {
