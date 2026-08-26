@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-08-26T16:20:00.582421+00:00",
+  "savedAt": "2026-08-26T19:04:44.828549+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -7,7 +7,7 @@
     "expLevel": 236,
     "trophies": 0,
     "bestTrophies": 5070,
-    "warStars": 1845,
+    "warStars": 1851,
     "builderHallLevel": 10,
     "builderBaseTrophies": 4908,
     "bestBuilderBaseTrophies": 5121,
@@ -591,9 +591,9 @@
         "maxLevel": 25,
         "equipment": [
           {
-            "name": "Electro Fangs",
-            "level": 18,
-            "maxLevel": 18,
+            "name": "Rocket Backpack",
+            "level": 26,
+            "maxLevel": 27,
             "village": "home"
           },
           {
@@ -1159,9 +1159,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 65246193,
+      "value": 65248423,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 65246193",
+      "completionInfo": "Total Dark Elixir looted: 65248423",
       "village": "home"
     },
     {
@@ -1191,9 +1191,9 @@
     {
       "name": "War Hero",
       "stars": 3,
-      "value": 1845,
+      "value": 1851,
       "target": 1000,
-      "completionInfo": "Total Stars scored for clan in Clan War battles: 1845",
+      "completionInfo": "Total Stars scored for clan in Clan War battles: 1851",
       "village": "home"
     },
     {
@@ -1311,9 +1311,9 @@
     {
       "name": "Well Seasoned",
       "stars": 3,
-      "value": 200820,
+      "value": 200970,
       "target": 50000,
-      "completionInfo": "Total Season Challenges points: 200820",
+      "completionInfo": "Total Season Challenges points: 200970",
       "village": "home"
     },
     {
