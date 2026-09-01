@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-09-01T13:14:48.165344+00:00",
+  "savedAt": "2026-09-01T17:41:42.721451+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -162,7 +162,6 @@
         "name": "Super Wall Breaker",
         "level": 1,
         "maxLevel": 10,
-        "superTroopIsActive": true,
         "village": "home"
       },
       {
