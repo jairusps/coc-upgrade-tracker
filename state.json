@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-09-04T17:26:50.830041+00:00",
+  "savedAt": "2026-09-04T20:28:54.968205+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -162,7 +162,6 @@
         "name": "Super Wall Breaker",
         "level": 1,
         "maxLevel": 10,
-        "superTroopIsActive": true,
         "village": "home"
       },
       {
@@ -587,7 +586,7 @@
       },
       {
         "name": "Dragon Duke",
-        "level": 20,
+        "level": 21,
         "maxLevel": 25,
         "equipment": [
           {
@@ -911,7 +910,7 @@
       },
       {
         "name": "Clone Spell",
-        "level": 8,
+        "level": 9,
         "maxLevel": 9,
         "village": "home"
       },
