@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-09-05T10:11:50.697813+00:00",
+  "savedAt": "2026-09-05T13:44:21.854506+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -13,7 +13,7 @@
     "bestBuilderBaseTrophies": 5121,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 181,
+    "donations": 239,
     "donationsReceived": 445,
     "clanCapitalContributions": 3807633,
     "clan": {
@@ -1054,9 +1054,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 5772,
+      "value": 5774,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 5772",
+      "completionInfo": "Total obstacles removed: 5774",
       "village": "home"
     },
     {
@@ -1142,9 +1142,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 98840,
+      "value": 98894,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 98840",
+      "completionInfo": "Total capacity donated: 98894",
       "village": "home"
     },
     {
@@ -1214,9 +1214,9 @@
     {
       "name": "Sharing is caring",
       "stars": 2,
-      "value": 4948,
+      "value": 4952,
       "target": 10000,
-      "completionInfo": "Total Spell capacity donated: 4948",
+      "completionInfo": "Total Spell capacity donated: 4952",
       "village": "home"
     },
     {
@@ -1310,9 +1310,9 @@
     {
       "name": "Well Seasoned",
       "stars": 3,
-      "value": 203470,
+      "value": 203480,
       "target": 50000,
-      "completionInfo": "Total Season Challenges points: 203470",
+      "completionInfo": "Total Season Challenges points: 203480",
       "village": "home"
     },
     {
