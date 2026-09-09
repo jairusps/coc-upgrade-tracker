@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-09-08T23:55:31.583578+00:00",
+  "savedAt": "2026-09-09T03:53:44.965720+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -7,13 +7,13 @@
     "expLevel": 236,
     "trophies": 0,
     "bestTrophies": 5070,
-    "warStars": 1872,
+    "warStars": 1875,
     "builderHallLevel": 10,
     "builderBaseTrophies": 4908,
     "bestBuilderBaseTrophies": 5121,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 362,
+    "donations": 446,
     "donationsReceived": 118,
     "clanCapitalContributions": 3832441,
     "clan": {
@@ -1143,9 +1143,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 99419,
+      "value": 99469,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 99419",
+      "completionInfo": "Total capacity donated: 99469",
       "village": "home"
     },
     {
@@ -1159,9 +1159,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 66155156,
+      "value": 66156246,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 66155156",
+      "completionInfo": "Total Dark Elixir looted: 66156246",
       "village": "home"
     },
     {
@@ -1191,9 +1191,9 @@
     {
       "name": "War Hero",
       "stars": 3,
-      "value": 1872,
+      "value": 1875,
       "target": 1000,
-      "completionInfo": "Total Stars scored for clan in Clan War battles: 1872",
+      "completionInfo": "Total Stars scored for clan in Clan War battles: 1875",
       "village": "home"
     },
     {
@@ -1215,9 +1215,9 @@
     {
       "name": "Sharing is caring",
       "stars": 2,
-      "value": 4976,
+      "value": 4980,
       "target": 10000,
-      "completionInfo": "Total Spell capacity donated: 4976",
+      "completionInfo": "Total Spell capacity donated: 4980",
       "village": "home"
     },
     {
@@ -1295,9 +1295,9 @@
     {
       "name": "War League Legend",
       "stars": 3,
-      "value": 736,
+      "value": 739,
       "target": 250,
-      "completionInfo": "Total Stars scored for clan in War League battles: 736",
+      "completionInfo": "Total Stars scored for clan in War League battles: 739",
       "village": "home"
     },
     {
@@ -1351,9 +1351,9 @@
     {
       "name": "Siege Sharer",
       "stars": 2,
-      "value": 1422,
+      "value": 1423,
       "target": 5000,
-      "completionInfo": "Total Siege Machines donated: 1422",
+      "completionInfo": "Total Siege Machines donated: 1423",
       "village": "home"
     },
     {
