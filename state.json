@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-09-16T16:25:25.858867+00:00",
+  "savedAt": "2026-09-16T19:53:04.289912+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -467,7 +467,7 @@
       },
       {
         "name": "Greedy Raven",
-        "level": 6,
+        "level": 7,
         "maxLevel": 10,
         "village": "home"
       }
@@ -1055,9 +1055,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 5816,
+      "value": 5817,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 5816",
+      "completionInfo": "Total obstacles removed: 5817",
       "village": "home"
     },
     {
