@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-09-17T13:10:28.834841+00:00",
+  "savedAt": "2026-09-17T18:00:24.958002+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -13,7 +13,7 @@
     "bestBuilderBaseTrophies": 5121,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 985,
+    "donations": 1015,
     "donationsReceived": 413,
     "clanCapitalContributions": 3832441,
     "clan": {
@@ -1055,9 +1055,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 5819,
+      "value": 5820,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 5819",
+      "completionInfo": "Total obstacles removed: 5820",
       "village": "home"
     },
     {
@@ -1103,9 +1103,9 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 236064,
+      "value": 236077,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 236064",
+      "completionInfo": "Total Walls destroyed: 236077",
       "village": "home"
     },
     {
@@ -1119,9 +1119,9 @@
     {
       "name": "Union Buster",
       "stars": 3,
-      "value": 30943,
+      "value": 30944,
       "target": 2500,
-      "completionInfo": "Total Builder's Huts destroyed: 30943",
+      "completionInfo": "Total Builder's Huts destroyed: 30944",
       "village": "home"
     },
     {
@@ -1151,17 +1151,17 @@
     {
       "name": "Mortar Mauler",
       "stars": 3,
-      "value": 25357,
+      "value": 25358,
       "target": 5000,
-      "completionInfo": "Total Mortars destroyed: 25357",
+      "completionInfo": "Total Mortars destroyed: 25358",
       "village": "home"
     },
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 66620260,
+      "value": 66626896,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 66620260",
+      "completionInfo": "Total Dark Elixir looted: 66626896",
       "village": "home"
     },
     {
@@ -1175,17 +1175,17 @@
     {
       "name": "X-Bow Exterminator",
       "stars": 3,
-      "value": 21168,
+      "value": 21169,
       "target": 2500,
-      "completionInfo": "Total X-Bows destroyed: 21168",
+      "completionInfo": "Total X-Bows destroyed: 21169",
       "village": "home"
     },
     {
       "name": "Firefighter",
       "stars": 3,
-      "value": 14771,
+      "value": 14772,
       "target": 5000,
-      "completionInfo": "Total Inferno Towers destroyed: 14771",
+      "completionInfo": "Total Inferno Towers destroyed: 14772",
       "village": "home"
     },
     {
@@ -1311,9 +1311,9 @@
     {
       "name": "Well Seasoned",
       "stars": 3,
-      "value": 204640,
+      "value": 204650,
       "target": 50000,
-      "completionInfo": "Total Season Challenges points: 204640",
+      "completionInfo": "Total Season Challenges points: 204650",
       "village": "home"
     },
     {
@@ -1335,9 +1335,9 @@
     {
       "name": "Bust This!",
       "stars": 3,
-      "value": 21561,
+      "value": 21562,
       "target": 2500,
-      "completionInfo": "Total weaponized Builder's Huts destroyed: 21561",
+      "completionInfo": "Total weaponized Builder's Huts destroyed: 21562",
       "village": "home"
     },
     {
@@ -1351,9 +1351,9 @@
     {
       "name": "Siege Sharer",
       "stars": 2,
-      "value": 1428,
+      "value": 1429,
       "target": 5000,
-      "completionInfo": "Total Siege Machines donated: 1428",
+      "completionInfo": "Total Siege Machines donated: 1429",
       "village": "home"
     },
     {
@@ -1375,9 +1375,9 @@
     {
       "name": "Counterspell",
       "stars": 3,
-      "value": 7821,
+      "value": 7822,
       "target": 4000,
-      "completionInfo": "Total Spell Towers Destroyed: 7821",
+      "completionInfo": "Total Spell Towers Destroyed: 7822",
       "village": "home"
     },
     {
@@ -1415,9 +1415,9 @@
     {
       "name": "Ricochet Cannon Crusher",
       "stars": 3,
-      "value": 6831,
+      "value": 6832,
       "target": 5000,
-      "completionInfo": "Total Ricochet Cannons Destroyed: 6831",
+      "completionInfo": "Total Ricochet Cannons Destroyed: 6832",
       "village": "home"
     },
     {
