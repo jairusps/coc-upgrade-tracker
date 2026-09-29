@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-09-29T15:29:27.056876+00:00",
+  "savedAt": "2026-09-29T20:31:07.403016+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -1054,9 +1054,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 5858,
+      "value": 5867,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 5858",
+      "completionInfo": "Total obstacles removed: 5867",
       "village": "home"
     },
     {
@@ -1310,9 +1310,9 @@
     {
       "name": "Well Seasoned",
       "stars": 3,
-      "value": 207800,
+      "value": 207900,
       "target": 50000,
-      "completionInfo": "Total Season Challenges points: 207800",
+      "completionInfo": "Total Season Challenges points: 207900",
       "village": "home"
     },
     {
