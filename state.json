@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-10-06T14:52:20.139414+00:00",
+  "savedAt": "2026-10-06T20:03:30.705499+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -7,14 +7,14 @@
     "expLevel": 237,
     "trophies": 0,
     "bestTrophies": 5070,
-    "warStars": 1911,
+    "warStars": 1914,
     "builderHallLevel": 10,
     "builderBaseTrophies": 4925,
     "bestBuilderBaseTrophies": 5121,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 193,
-    "donationsReceived": 119,
+    "donations": 329,
+    "donationsReceived": 208,
     "clanCapitalContributions": 3953613,
     "clan": {
       "tag": "#LG922RVJ",
@@ -1143,9 +1143,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 100666,
+      "value": 100766,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 100666",
+      "completionInfo": "Total capacity donated: 100766",
       "village": "home"
     },
     {
@@ -1159,9 +1159,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 67792991,
+      "value": 67793981,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 67792991",
+      "completionInfo": "Total Dark Elixir looted: 67793981",
       "village": "home"
     },
     {
@@ -1191,9 +1191,9 @@
     {
       "name": "War Hero",
       "stars": 3,
-      "value": 1911,
+      "value": 1914,
       "target": 1000,
-      "completionInfo": "Total Stars scored for clan in Clan War battles: 1911",
+      "completionInfo": "Total Stars scored for clan in Clan War battles: 1914",
       "village": "home"
     },
     {
@@ -1215,9 +1215,9 @@
     {
       "name": "Sharing is caring",
       "stars": 2,
-      "value": 5028,
+      "value": 5034,
       "target": 10000,
-      "completionInfo": "Total Spell capacity donated: 5028",
+      "completionInfo": "Total Spell capacity donated: 5034",
       "village": "home"
     },
     {
@@ -1295,9 +1295,9 @@
     {
       "name": "War League Legend",
       "stars": 3,
-      "value": 751,
+      "value": 754,
       "target": 250,
-      "completionInfo": "Total Stars scored for clan in War League battles: 751",
+      "completionInfo": "Total Stars scored for clan in War League battles: 754",
       "village": "home"
     },
     {
@@ -1311,9 +1311,9 @@
     {
       "name": "Well Seasoned",
       "stars": 3,
-      "value": 208840,
+      "value": 208890,
       "target": 50000,
-      "completionInfo": "Total Season Challenges points: 208840",
+      "completionInfo": "Total Season Challenges points: 208890",
       "village": "home"
     },
     {
@@ -1351,9 +1351,9 @@
     {
       "name": "Siege Sharer",
       "stars": 2,
-      "value": 1440,
+      "value": 1441,
       "target": 5000,
-      "completionInfo": "Total Siege Machines donated: 1440",
+      "completionInfo": "Total Siege Machines donated: 1441",
       "village": "home"
     },
     {
