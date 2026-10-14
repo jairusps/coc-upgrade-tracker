@@ -1,11 +1,11 @@
 {
-  "savedAt": "2026-10-14T16:47:27.982163+00:00",
+  "savedAt": "2026-10-14T20:30:08.680468+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
     "townHallLevel": 18,
     "expLevel": 237,
-    "trophies": 10,
+    "trophies": 25,
     "bestTrophies": 5070,
     "warStars": 1923,
     "builderHallLevel": 10,
@@ -13,7 +13,7 @@
     "bestBuilderBaseTrophies": 5121,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 924,
+    "donations": 1113,
     "donationsReceived": 475,
     "clanCapitalContributions": 3979010,
     "clan": {
@@ -162,6 +162,7 @@
         "name": "Super Wall Breaker",
         "level": 1,
         "maxLevel": 10,
+        "superTroopIsActive": true,
         "village": "home"
       },
       {
@@ -1054,9 +1055,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 5925,
+      "value": 5930,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 5925",
+      "completionInfo": "Total obstacles removed: 5930",
       "village": "home"
     },
     {
@@ -1102,33 +1103,33 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 244551,
+      "value": 244593,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 244551",
+      "completionInfo": "Total Walls destroyed: 244593",
       "village": "home"
     },
     {
       "name": "Humiliator",
       "stars": 3,
-      "value": 6883,
+      "value": 6885,
       "target": 2000,
-      "completionInfo": "Total Town Halls destroyed: 6883",
+      "completionInfo": "Total Town Halls destroyed: 6885",
       "village": "home"
     },
     {
       "name": "Union Buster",
       "stars": 3,
-      "value": 31504,
+      "value": 31514,
       "target": 2500,
-      "completionInfo": "Total Builder's Huts destroyed: 31504",
+      "completionInfo": "Total Builder's Huts destroyed: 31514",
       "village": "home"
     },
     {
       "name": "Conqueror",
       "stars": 3,
-      "value": 7834,
+      "value": 7836,
       "target": 5000,
-      "completionInfo": "Total multiplayer battles won: 7834",
+      "completionInfo": "Total multiplayer battles won: 7836",
       "village": "home"
     },
     {
@@ -1142,25 +1143,25 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 101220,
+      "value": 101370,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 101220",
+      "completionInfo": "Total capacity donated: 101370",
       "village": "home"
     },
     {
       "name": "Mortar Mauler",
       "stars": 3,
-      "value": 25791,
+      "value": 25799,
       "target": 5000,
-      "completionInfo": "Total Mortars destroyed: 25791",
+      "completionInfo": "Total Mortars destroyed: 25799",
       "village": "home"
     },
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 68054376,
+      "value": 68080473,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 68054376",
+      "completionInfo": "Total Dark Elixir looted: 68080473",
       "village": "home"
     },
     {
@@ -1174,17 +1175,17 @@
     {
       "name": "X-Bow Exterminator",
       "stars": 3,
-      "value": 21563,
+      "value": 21571,
       "target": 2500,
-      "completionInfo": "Total X-Bows destroyed: 21563",
+      "completionInfo": "Total X-Bows destroyed: 21571",
       "village": "home"
     },
     {
       "name": "Firefighter",
       "stars": 3,
-      "value": 15057,
+      "value": 15063,
       "target": 5000,
-      "completionInfo": "Total Inferno Towers destroyed: 15057",
+      "completionInfo": "Total Inferno Towers destroyed: 15063",
       "village": "home"
     },
     {
@@ -1214,9 +1215,9 @@
     {
       "name": "Sharing is caring",
       "stars": 2,
-      "value": 5055,
+      "value": 5064,
       "target": 10000,
-      "completionInfo": "Total Spell capacity donated: 5055",
+      "completionInfo": "Total Spell capacity donated: 5064",
       "village": "home"
     },
     {
@@ -1310,49 +1311,49 @@
     {
       "name": "Well Seasoned",
       "stars": 3,
-      "value": 209550,
+      "value": 209640,
       "target": 50000,
-      "completionInfo": "Total Season Challenges points: 209550",
+      "completionInfo": "Total Season Challenges points: 209640",
       "village": "home"
     },
     {
       "name": "Shattered and Scattered",
       "stars": 3,
-      "value": 9119,
+      "value": 9123,
       "target": 4000,
-      "completionInfo": "Total Scattershots destroyed: 9119",
+      "completionInfo": "Total Scattershots destroyed: 9123",
       "village": "home"
     },
     {
       "name": "Not So Easy This Time",
       "stars": 3,
-      "value": 5893,
+      "value": 5895,
       "target": 2000,
-      "completionInfo": "Weaponized Town Halls destroyed: 5893",
+      "completionInfo": "Weaponized Town Halls destroyed: 5895",
       "village": "home"
     },
     {
       "name": "Bust This!",
       "stars": 3,
-      "value": 22115,
+      "value": 22125,
       "target": 2500,
-      "completionInfo": "Total weaponized Builder's Huts destroyed: 22115",
+      "completionInfo": "Total weaponized Builder's Huts destroyed: 22125",
       "village": "home"
     },
     {
       "name": "Superb Work",
       "stars": 3,
-      "value": 399,
+      "value": 400,
       "target": 250,
-      "completionInfo": "Total times Super Troops boosted: 399",
+      "completionInfo": "Total times Super Troops boosted: 400",
       "village": "home"
     },
     {
       "name": "Siege Sharer",
       "stars": 2,
-      "value": 1445,
+      "value": 1446,
       "target": 5000,
-      "completionInfo": "Total Siege Machines donated: 1445",
+      "completionInfo": "Total Siege Machines donated: 1446",
       "village": "home"
     },
     {
@@ -1374,17 +1375,17 @@
     {
       "name": "Counterspell",
       "stars": 3,
-      "value": 8020,
+      "value": 8024,
       "target": 4000,
-      "completionInfo": "Total Spell Towers Destroyed: 8020",
+      "completionInfo": "Total Spell Towers Destroyed: 8024",
       "village": "home"
     },
     {
       "name": "Monolith Masher",
       "stars": 3,
-      "value": 3918,
+      "value": 3920,
       "target": 2000,
-      "completionInfo": "Total Monoliths Destroyed: 3918",
+      "completionInfo": "Total Monoliths Destroyed: 3920",
       "village": "home"
     },
     {
@@ -1406,33 +1407,33 @@
     {
       "name": "Multi-Archer Tower Terminator",
       "stars": 3,
-      "value": 7228,
+      "value": 7234,
       "target": 5000,
-      "completionInfo": "Total Multi-Archer Towers Destroyed: 7228",
+      "completionInfo": "Total Multi-Archer Towers Destroyed: 7234",
       "village": "home"
     },
     {
       "name": "Ricochet Cannon Crusher",
       "stars": 3,
-      "value": 7113,
+      "value": 7119,
       "target": 5000,
-      "completionInfo": "Total Ricochet Cannons Destroyed: 7113",
+      "completionInfo": "Total Ricochet Cannons Destroyed: 7119",
       "village": "home"
     },
     {
       "name": "Firespitter Finisher",
       "stars": 2,
-      "value": 3568,
+      "value": 3572,
       "target": 4000,
-      "completionInfo": "Total Firespitters Destroyed: 3568",
+      "completionInfo": "Total Firespitters Destroyed: 3572",
       "village": "home"
     },
     {
       "name": "Multi-Gear Tower Trampler",
       "stars": 2,
-      "value": 1723,
+      "value": 1725,
       "target": 2000,
-      "completionInfo": "Total Multi-Gear Towers Destroyed: 1723",
+      "completionInfo": "Total Multi-Gear Towers Destroyed: 1725",
       "village": "home"
     },
     {
@@ -1446,9 +1447,9 @@
     {
       "name": "Crafter’s Nightmare",
       "stars": 2,
-      "value": 1021,
+      "value": 1023,
       "target": 2000,
-      "completionInfo": "Total Crafted Defenses Destroyed: 1021",
+      "completionInfo": "Total Crafted Defenses Destroyed: 1023",
       "village": "home"
     },
     {
