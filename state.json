@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-10-17T19:05:04.189983+00:00",
+  "savedAt": "2026-10-17T22:01:19.968773+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -11,15 +11,15 @@
     "builderHallLevel": 10,
     "builderBaseTrophies": 4925,
     "bestBuilderBaseTrophies": 5121,
-    "role": "coLeader",
+    "role": "member",
     "warPreference": "in",
-    "donations": 1160,
-    "donationsReceived": 475,
+    "donations": 0,
+    "donationsReceived": 0,
     "clanCapitalContributions": 4007790,
     "clan": {
-      "tag": "#LG922RVJ",
-      "name": "The Beast A",
-      "clanLevel": 24
+      "tag": "#9RQLCLQP",
+      "name": "Fried Warriors",
+      "clanLevel": 28
     },
     "leagueTier": {
       "id": 105000032,
