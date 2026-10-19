@@ -1,11 +1,11 @@
 {
-  "savedAt": "2026-10-19T00:55:43.952283+00:00",
+  "savedAt": "2026-10-19T05:53:55.787423+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
     "townHallLevel": 18,
     "expLevel": 237,
-    "trophies": 779,
+    "trophies": 0,
     "bestTrophies": 5070,
     "warStars": 1923,
     "builderHallLevel": 10,
@@ -22,8 +22,8 @@
       "clanLevel": 24
     },
     "leagueTier": {
-      "id": 105000032,
-      "name": "Electro League 32"
+      "id": 105000033,
+      "name": "Electro League 33"
     },
     "builderBaseLeague": {
       "id": 44000034,
