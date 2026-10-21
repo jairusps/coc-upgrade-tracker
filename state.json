@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-10-20T23:00:46.223717+00:00",
+  "savedAt": "2026-10-21T03:50:56.366383+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -7,14 +7,14 @@
     "expLevel": 237,
     "trophies": 0,
     "bestTrophies": 5070,
-    "warStars": 1923,
+    "warStars": 1926,
     "builderHallLevel": 10,
     "builderBaseTrophies": 4925,
     "bestBuilderBaseTrophies": 5121,
     "role": "member",
     "warPreference": "in",
-    "donations": 90,
-    "donationsReceived": 0,
+    "donations": 94,
+    "donationsReceived": 55,
     "clanCapitalContributions": 4007790,
     "clan": {
       "tag": "#2P0GLJ0CC",
@@ -1149,9 +1149,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 101637,
+      "value": 101641,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 101637",
+      "completionInfo": "Total capacity donated: 101641",
       "village": "home"
     },
     {
@@ -1165,9 +1165,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 68584843,
+      "value": 68585883,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 68584843",
+      "completionInfo": "Total Dark Elixir looted: 68585883",
       "village": "home"
     },
     {
@@ -1197,9 +1197,9 @@
     {
       "name": "War Hero",
       "stars": 3,
-      "value": 1923,
+      "value": 1926,
       "target": 1000,
-      "completionInfo": "Total Stars scored for clan in Clan War battles: 1923",
+      "completionInfo": "Total Stars scored for clan in Clan War battles: 1926",
       "village": "home"
     },
     {
@@ -1317,9 +1317,9 @@
     {
       "name": "Well Seasoned",
       "stars": 3,
-      "value": 210120,
+      "value": 210180,
       "target": 50000,
-      "completionInfo": "Total Season Challenges points: 210120",
+      "completionInfo": "Total Season Challenges points: 210180",
       "village": "home"
     },
     {
