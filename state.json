@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-10-21T03:50:56.366383+00:00",
+  "savedAt": "2026-10-21T09:12:29.043893+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -7,14 +7,14 @@
     "expLevel": 237,
     "trophies": 0,
     "bestTrophies": 5070,
-    "warStars": 1926,
+    "warStars": 1928,
     "builderHallLevel": 10,
     "builderBaseTrophies": 4925,
     "bestBuilderBaseTrophies": 5121,
     "role": "member",
     "warPreference": "in",
-    "donations": 94,
-    "donationsReceived": 55,
+    "donations": 219,
+    "donationsReceived": 144,
     "clanCapitalContributions": 4007790,
     "clan": {
       "tag": "#2P0GLJ0CC",
@@ -1061,9 +1061,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 5952,
+      "value": 5955,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 5952",
+      "completionInfo": "Total obstacles removed: 5955",
       "village": "home"
     },
     {
@@ -1149,9 +1149,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 101641,
+      "value": 101729,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 101641",
+      "completionInfo": "Total capacity donated: 101729",
       "village": "home"
     },
     {
@@ -1165,9 +1165,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 68585883,
+      "value": 68587033,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 68585883",
+      "completionInfo": "Total Dark Elixir looted: 68587033",
       "village": "home"
     },
     {
@@ -1197,9 +1197,9 @@
     {
       "name": "War Hero",
       "stars": 3,
-      "value": 1926,
+      "value": 1928,
       "target": 1000,
-      "completionInfo": "Total Stars scored for clan in Clan War battles: 1926",
+      "completionInfo": "Total Stars scored for clan in Clan War battles: 1928",
       "village": "home"
     },
     {
@@ -1221,9 +1221,9 @@
     {
       "name": "Sharing is caring",
       "stars": 2,
-      "value": 5073,
+      "value": 5080,
       "target": 10000,
-      "completionInfo": "Total Spell capacity donated: 5073",
+      "completionInfo": "Total Spell capacity donated: 5080",
       "village": "home"
     },
     {
@@ -1357,9 +1357,9 @@
     {
       "name": "Siege Sharer",
       "stars": 2,
-      "value": 1449,
+      "value": 1450,
       "target": 5000,
-      "completionInfo": "Total Siege Machines donated: 1449",
+      "completionInfo": "Total Siege Machines donated: 1450",
       "village": "home"
     },
     {
