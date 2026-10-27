@@ -46,12 +46,13 @@ import requests
 STATE_FILE = Path(os.getenv("STATE_FILE", "state.json"))
 CONFIG_FILE = Path(os.getenv("CONFIG_FILE", "config.json"))
 
-API_BASE_URL = "https://proxy.clashk.ing/v1/players/"
+
+API_BASE_URL = "https://cocproxy.royaleapi.dev/v1/players/"
 REQUEST_TIMEOUT = int(os.getenv("REQUEST_TIMEOUT", "30"))
 API_RETRIES = int(os.getenv("API_RETRIES", "3"))
 API_RETRY_DELAY = int(os.getenv("API_RETRY_DELAY", "5"))
-
 PLAYER_TAG = os.getenv("PLAYER_TAG", "").strip()
+COC_API_TOKEN = os.getenv("COC_API_TOKEN", "").strip()
 GMAIL_ADDRESS = os.getenv("GMAIL_ADDRESS", "").strip()
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD", "").strip()
 
@@ -118,6 +119,8 @@ def validate_environment() -> None:
         missing.append("GMAIL_ADDRESS")
     if not GMAIL_APP_PASSWORD:
         missing.append("GMAIL_APP_PASSWORD")
+    if not COC_API_TOKEN:
+    missing.append("COC_API_TOKEN")
 
     if missing:
         print(
@@ -154,10 +157,13 @@ def fetch_player(player_tag: str) -> dict[str, Any]:
     encoded_tag = quote(normalized, safe="")
     url = API_BASE_URL + encoded_tag
 
-    headers = {
-        "Accept": "application/json",
-        "User-Agent": "coc-upgrade-tracker/1.0",
-    }
+   
+headers = {
+    "Accept": "application/json",
+    "User-Agent": "coc-upgrade-tracker/1.0",
+    "Authorization": f"Bearer {COC_API_TOKEN}",
+}
+
 
     last_error: Exception | None = None
 
