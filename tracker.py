@@ -110,17 +110,21 @@ def load_config() -> dict[str, Any]:
 CONFIG = load_config()
 
 
+
 def validate_environment() -> None:
     missing: list[str] = []
 
     if not PLAYER_TAG:
         missing.append("PLAYER_TAG")
+
     if not GMAIL_ADDRESS:
         missing.append("GMAIL_ADDRESS")
+
     if not GMAIL_APP_PASSWORD:
         missing.append("GMAIL_APP_PASSWORD")
+
     if not COC_API_TOKEN:
-    missing.append("COC_API_TOKEN")
+        missing.append("COC_API_TOKEN")
 
     if missing:
         print(
@@ -128,6 +132,7 @@ def validate_environment() -> None:
             + ", ".join(missing)
         )
         sys.exit(1)
+
 
 
 # ---------------------------------------------------------------------------
