@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-10-30T08:17:08.959575+00:00",
+  "savedAt": "2026-10-30T15:41:14.783098+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -15,7 +15,7 @@
     "warPreference": "in",
     "donations": 1179,
     "donationsReceived": 796,
-    "clanCapitalContributions": 4037563,
+    "clanCapitalContributions": 4073690,
     "clan": {
       "tag": "#2P0GLJ0CC",
       "name": "DutchKings",
@@ -162,7 +162,6 @@
         "name": "Super Wall Breaker",
         "level": 1,
         "maxLevel": 10,
-        "superTroopIsActive": true,
         "village": "home"
       },
       {
@@ -1061,9 +1060,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 5987,
+      "value": 5989,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 5987",
+      "completionInfo": "Total obstacles removed: 5989",
       "village": "home"
     },
     {
@@ -1365,17 +1364,17 @@
     {
       "name": "Aggressive Capitalism",
       "stars": 3,
-      "value": 3224490,
+      "value": 3256810,
       "target": 1000000,
-      "completionInfo": "Total Capital Gold looted: 3224490",
+      "completionInfo": "Total Capital Gold looted: 3256810",
       "village": "clanCapital"
     },
     {
       "name": "Most Valuable Clanmate",
       "stars": 3,
-      "value": 4037563,
+      "value": 4073690,
       "target": 2000000,
-      "completionInfo": "Total Capital Gold contributed: 4037563",
+      "completionInfo": "Total Capital Gold contributed: 4073690",
       "village": "clanCapital"
     },
     {
