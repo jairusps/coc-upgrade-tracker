@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-01T16:38:17.151557+00:00",
+  "savedAt": "2026-11-01T20:59:23.177506+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -438,7 +438,7 @@
       },
       {
         "name": "Diggy",
-        "level": 12,
+        "level": 13,
         "maxLevel": 15,
         "village": "home"
       },
@@ -1110,33 +1110,33 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 249674,
+      "value": 249935,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 249674",
+      "completionInfo": "Total Walls destroyed: 249935",
       "village": "home"
     },
     {
       "name": "Humiliator",
       "stars": 3,
-      "value": 6982,
+      "value": 6988,
       "target": 2000,
-      "completionInfo": "Total Town Halls destroyed: 6982",
+      "completionInfo": "Total Town Halls destroyed: 6988",
       "village": "home"
     },
     {
       "name": "Union Buster",
       "stars": 3,
-      "value": 31921,
+      "value": 31922,
       "target": 2500,
-      "completionInfo": "Total Builder's Huts destroyed: 31921",
+      "completionInfo": "Total Builder's Huts destroyed: 31922",
       "village": "home"
     },
     {
       "name": "Conqueror",
       "stars": 3,
-      "value": 7938,
+      "value": 7944,
       "target": 5000,
-      "completionInfo": "Total multiplayer battles won: 7938",
+      "completionInfo": "Total multiplayer battles won: 7944",
       "village": "home"
     },
     {
@@ -1166,9 +1166,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 69781814,
+      "value": 69929580,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 69781814",
+      "completionInfo": "Total Dark Elixir looted: 69929580",
       "village": "home"
     },
     {
@@ -1214,9 +1214,9 @@
     {
       "name": "Anti-Artillery",
       "stars": 3,
-      "value": 4556,
+      "value": 4558,
       "target": 2000,
-      "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 4556",
+      "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 4558",
       "village": "home"
     },
     {
@@ -1334,17 +1334,17 @@
     {
       "name": "Not So Easy This Time",
       "stars": 3,
-      "value": 5992,
+      "value": 5998,
       "target": 2000,
-      "completionInfo": "Weaponized Town Halls destroyed: 5992",
+      "completionInfo": "Weaponized Town Halls destroyed: 5998",
       "village": "home"
     },
     {
       "name": "Bust This!",
       "stars": 3,
-      "value": 22527,
+      "value": 22528,
       "target": 2500,
-      "completionInfo": "Total weaponized Builder's Huts destroyed: 22527",
+      "completionInfo": "Total weaponized Builder's Huts destroyed: 22528",
       "village": "home"
     },
     {
