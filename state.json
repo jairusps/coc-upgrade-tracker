@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-01T09:03:39.857758+00:00",
+  "savedAt": "2026-11-01T16:38:17.151557+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -13,7 +13,7 @@
     "bestBuilderBaseTrophies": 5121,
     "role": "member",
     "warPreference": "out",
-    "donations": 1361,
+    "donations": 1480,
     "donationsReceived": 796,
     "clanCapitalContributions": 4073690,
     "clan": {
@@ -100,7 +100,7 @@
       },
       {
         "name": "Hog Rider",
-        "level": 8,
+        "level": 9,
         "maxLevel": 15,
         "village": "home"
       },
@@ -264,7 +264,7 @@
       },
       {
         "name": "Electro Dragon",
-        "level": 8,
+        "level": 9,
         "maxLevel": 9,
         "village": "home"
       },
@@ -1062,9 +1062,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 5997,
+      "value": 5999,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 5997",
+      "completionInfo": "Total obstacles removed: 5999",
       "village": "home"
     },
     {
@@ -1110,17 +1110,17 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 249553,
+      "value": 249674,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 249553",
+      "completionInfo": "Total Walls destroyed: 249674",
       "village": "home"
     },
     {
       "name": "Humiliator",
       "stars": 3,
-      "value": 6980,
+      "value": 6982,
       "target": 2000,
-      "completionInfo": "Total Town Halls destroyed: 6980",
+      "completionInfo": "Total Town Halls destroyed: 6982",
       "village": "home"
     },
     {
@@ -1134,9 +1134,9 @@
     {
       "name": "Conqueror",
       "stars": 3,
-      "value": 7936,
+      "value": 7938,
       "target": 5000,
-      "completionInfo": "Total multiplayer battles won: 7936",
+      "completionInfo": "Total multiplayer battles won: 7938",
       "village": "home"
     },
     {
@@ -1150,9 +1150,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 102375,
+      "value": 102430,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 102375",
+      "completionInfo": "Total capacity donated: 102430",
       "village": "home"
     },
     {
@@ -1166,9 +1166,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 69759275,
+      "value": 69781814,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 69759275",
+      "completionInfo": "Total Dark Elixir looted: 69781814",
       "village": "home"
     },
     {
@@ -1214,17 +1214,17 @@
     {
       "name": "Anti-Artillery",
       "stars": 3,
-      "value": 4555,
+      "value": 4556,
       "target": 2000,
-      "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 4555",
+      "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 4556",
       "village": "home"
     },
     {
       "name": "Sharing is caring",
       "stars": 2,
-      "value": 5126,
+      "value": 5130,
       "target": 10000,
-      "completionInfo": "Total Spell capacity donated: 5126",
+      "completionInfo": "Total Spell capacity donated: 5130",
       "village": "home"
     },
     {
@@ -1334,9 +1334,9 @@
     {
       "name": "Not So Easy This Time",
       "stars": 3,
-      "value": 5990,
+      "value": 5992,
       "target": 2000,
-      "completionInfo": "Weaponized Town Halls destroyed: 5990",
+      "completionInfo": "Weaponized Town Halls destroyed: 5992",
       "village": "home"
     },
     {
@@ -1358,9 +1358,9 @@
     {
       "name": "Siege Sharer",
       "stars": 2,
-      "value": 1465,
+      "value": 1467,
       "target": 5000,
-      "completionInfo": "Total Siege Machines donated: 1465",
+      "completionInfo": "Total Siege Machines donated: 1467",
       "village": "home"
     },
     {
