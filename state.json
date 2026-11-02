@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-02T00:34:00.999671+00:00",
+  "savedAt": "2026-11-02T07:27:05.102928+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -13,8 +13,8 @@
     "bestBuilderBaseTrophies": 5121,
     "role": "member",
     "warPreference": "out",
-    "donations": 1480,
-    "donationsReceived": 796,
+    "donations": 0,
+    "donationsReceived": 0,
     "clanCapitalContributions": 4073690,
     "clan": {
       "tag": "#2P0GLJ0CC",
@@ -282,7 +282,7 @@
       },
       {
         "name": "Dragon Rider",
-        "level": 5,
+        "level": 6,
         "maxLevel": 6,
         "village": "home"
       },
@@ -476,7 +476,7 @@
     "heroes": [
       {
         "name": "Barbarian King",
-        "level": 102,
+        "level": 103,
         "maxLevel": 110,
         "equipment": [
           {
@@ -496,7 +496,7 @@
       },
       {
         "name": "Archer Queen",
-        "level": 102,
+        "level": 103,
         "maxLevel": 110,
         "equipment": [
           {
@@ -516,7 +516,7 @@
       },
       {
         "name": "Grand Warden",
-        "level": 77,
+        "level": 78,
         "maxLevel": 85,
         "equipment": [
           {
@@ -542,7 +542,7 @@
       },
       {
         "name": "Royal Champion",
-        "level": 50,
+        "level": 51,
         "maxLevel": 55,
         "equipment": [
           {
@@ -568,7 +568,7 @@
       },
       {
         "name": "Minion Prince",
-        "level": 90,
+        "level": 91,
         "maxLevel": 95,
         "equipment": [
           {
@@ -588,7 +588,7 @@
       },
       {
         "name": "Dragon Duke",
-        "level": 22,
+        "level": 23,
         "maxLevel": 25,
         "equipment": [
           {
@@ -1062,9 +1062,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 5999,
+      "value": 6000,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 5999",
+      "completionInfo": "Total obstacles removed: 6000",
       "village": "home"
     },
     {
@@ -1110,17 +1110,17 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 249935,
+      "value": 250115,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 249935",
+      "completionInfo": "Total Walls destroyed: 250115",
       "village": "home"
     },
     {
       "name": "Humiliator",
       "stars": 3,
-      "value": 6988,
+      "value": 6991,
       "target": 2000,
-      "completionInfo": "Total Town Halls destroyed: 6988",
+      "completionInfo": "Total Town Halls destroyed: 6991",
       "village": "home"
     },
     {
@@ -1134,9 +1134,9 @@
     {
       "name": "Conqueror",
       "stars": 3,
-      "value": 7944,
+      "value": 7947,
       "target": 5000,
-      "completionInfo": "Total multiplayer battles won: 7944",
+      "completionInfo": "Total multiplayer battles won: 7947",
       "village": "home"
     },
     {
@@ -1158,17 +1158,17 @@
     {
       "name": "Mortar Mauler",
       "stars": 3,
-      "value": 26117,
+      "value": 26119,
       "target": 5000,
-      "completionInfo": "Total Mortars destroyed: 26117",
+      "completionInfo": "Total Mortars destroyed: 26119",
       "village": "home"
     },
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 69929580,
+      "value": 70156685,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 69929580",
+      "completionInfo": "Total Dark Elixir looted: 70156685",
       "village": "home"
     },
     {
@@ -1214,9 +1214,9 @@
     {
       "name": "Anti-Artillery",
       "stars": 3,
-      "value": 4558,
+      "value": 4559,
       "target": 2000,
-      "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 4558",
+      "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 4559",
       "village": "home"
     },
     {
@@ -1334,9 +1334,9 @@
     {
       "name": "Not So Easy This Time",
       "stars": 3,
-      "value": 5998,
+      "value": 6001,
       "target": 2000,
-      "completionInfo": "Weaponized Town Halls destroyed: 5998",
+      "completionInfo": "Weaponized Town Halls destroyed: 6001",
       "village": "home"
     },
     {
