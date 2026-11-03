@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-03T00:52:48.408890+00:00",
+  "savedAt": "2026-11-03T07:41:57.389328+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -13,7 +13,7 @@
     "bestBuilderBaseTrophies": 5121,
     "role": "member",
     "warPreference": "out",
-    "donations": 85,
+    "donations": 171,
     "donationsReceived": 0,
     "clanCapitalContributions": 4073690,
     "clan": {
@@ -1062,9 +1062,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 6003,
+      "value": 6004,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 6003",
+      "completionInfo": "Total obstacles removed: 6004",
       "village": "home"
     },
     {
@@ -1110,9 +1110,9 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 251103,
+      "value": 251143,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 251103",
+      "completionInfo": "Total Walls destroyed: 251143",
       "village": "home"
     },
     {
@@ -1150,9 +1150,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 102485,
+      "value": 102540,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 102485",
+      "completionInfo": "Total capacity donated: 102540",
       "village": "home"
     },
     {
@@ -1166,9 +1166,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 70725870,
+      "value": 70746306,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 70725870",
+      "completionInfo": "Total Dark Elixir looted: 70746306",
       "village": "home"
     },
     {
@@ -1222,9 +1222,9 @@
     {
       "name": "Sharing is caring",
       "stars": 2,
-      "value": 5130,
+      "value": 5131,
       "target": 10000,
-      "completionInfo": "Total Spell capacity donated: 5130",
+      "completionInfo": "Total Spell capacity donated: 5131",
       "village": "home"
     },
     {
@@ -1358,9 +1358,9 @@
     {
       "name": "Siege Sharer",
       "stars": 2,
-      "value": 1468,
+      "value": 1469,
       "target": 5000,
-      "completionInfo": "Total Siege Machines donated: 1468",
+      "completionInfo": "Total Siege Machines donated: 1469",
       "village": "home"
     },
     {
