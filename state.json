@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-04T17:03:52.731415+00:00",
+  "savedAt": "2026-11-04T23:23:33.823791+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -13,7 +13,7 @@
     "bestBuilderBaseTrophies": 5121,
     "role": "member",
     "warPreference": "in",
-    "donations": 585,
+    "donations": 672,
     "donationsReceived": 0,
     "clanCapitalContributions": 4073690,
     "clan": {
@@ -1110,17 +1110,17 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 252888,
+      "value": 252968,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 252888",
+      "completionInfo": "Total Walls destroyed: 252968",
       "village": "home"
     },
     {
       "name": "Humiliator",
       "stars": 3,
-      "value": 7058,
+      "value": 7060,
       "target": 2000,
-      "completionInfo": "Total Town Halls destroyed: 7058",
+      "completionInfo": "Total Town Halls destroyed: 7060",
       "village": "home"
     },
     {
@@ -1134,9 +1134,9 @@
     {
       "name": "Conqueror",
       "stars": 3,
-      "value": 8014,
+      "value": 8016,
       "target": 5000,
-      "completionInfo": "Total multiplayer battles won: 8014",
+      "completionInfo": "Total multiplayer battles won: 8016",
       "village": "home"
     },
     {
@@ -1150,9 +1150,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 102812,
+      "value": 102867,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 102812",
+      "completionInfo": "Total capacity donated: 102867",
       "village": "home"
     },
     {
@@ -1166,9 +1166,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 71576475,
+      "value": 71611127,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 71576475",
+      "completionInfo": "Total Dark Elixir looted: 71611127",
       "village": "home"
     },
     {
@@ -1222,9 +1222,9 @@
     {
       "name": "Sharing is caring",
       "stars": 2,
-      "value": 5153,
+      "value": 5155,
       "target": 10000,
-      "completionInfo": "Total Spell capacity donated: 5153",
+      "completionInfo": "Total Spell capacity donated: 5155",
       "village": "home"
     },
     {
@@ -1334,9 +1334,9 @@
     {
       "name": "Not So Easy This Time",
       "stars": 3,
-      "value": 6068,
+      "value": 6070,
       "target": 2000,
-      "completionInfo": "Weaponized Town Halls destroyed: 6068",
+      "completionInfo": "Weaponized Town Halls destroyed: 6070",
       "village": "home"
     },
     {
@@ -1358,9 +1358,9 @@
     {
       "name": "Siege Sharer",
       "stars": 2,
-      "value": 1473,
+      "value": 1474,
       "target": 5000,
-      "completionInfo": "Total Siege Machines donated: 1473",
+      "completionInfo": "Total Siege Machines donated: 1474",
       "village": "home"
     },
     {
