@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-04T08:58:29.404142+00:00",
+  "savedAt": "2026-11-04T17:03:52.731415+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -162,6 +162,7 @@
         "name": "Super Wall Breaker",
         "level": 1,
         "maxLevel": 10,
+        "superTroopIsActive": true,
         "village": "home"
       },
       {
@@ -240,6 +241,7 @@
         "name": "Sneaky Goblin",
         "level": 1,
         "maxLevel": 6,
+        "superTroopIsActive": true,
         "village": "home"
       },
       {
@@ -436,7 +438,7 @@
       },
       {
         "name": "Diggy",
-        "level": 13,
+        "level": 14,
         "maxLevel": 15,
         "village": "home"
       },
@@ -978,7 +980,7 @@
     "siegeMachines": [
       {
         "name": "Wall Wrecker",
-        "level": 5,
+        "level": 6,
         "maxLevel": 6,
         "village": "home"
       },
@@ -990,7 +992,7 @@
       },
       {
         "name": "Stone Slammer",
-        "level": 5,
+        "level": 6,
         "maxLevel": 6,
         "village": "home"
       },
@@ -1060,9 +1062,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 6009,
+      "value": 6011,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 6009",
+      "completionInfo": "Total obstacles removed: 6011",
       "village": "home"
     },
     {
@@ -1108,17 +1110,17 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 252747,
+      "value": 252888,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 252747",
+      "completionInfo": "Total Walls destroyed: 252888",
       "village": "home"
     },
     {
       "name": "Humiliator",
       "stars": 3,
-      "value": 7055,
+      "value": 7058,
       "target": 2000,
-      "completionInfo": "Total Town Halls destroyed: 7055",
+      "completionInfo": "Total Town Halls destroyed: 7058",
       "village": "home"
     },
     {
@@ -1132,9 +1134,9 @@
     {
       "name": "Conqueror",
       "stars": 3,
-      "value": 8011,
+      "value": 8014,
       "target": 5000,
-      "completionInfo": "Total multiplayer battles won: 8011",
+      "completionInfo": "Total multiplayer battles won: 8014",
       "village": "home"
     },
     {
@@ -1164,9 +1166,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 71532913,
+      "value": 71576475,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 71532913",
+      "completionInfo": "Total Dark Elixir looted: 71576475",
       "village": "home"
     },
     {
@@ -1212,9 +1214,9 @@
     {
       "name": "Anti-Artillery",
       "stars": 3,
-      "value": 4574,
+      "value": 4575,
       "target": 2000,
-      "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 4574",
+      "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 4575",
       "village": "home"
     },
     {
@@ -1316,9 +1318,9 @@
     {
       "name": "Well Seasoned",
       "stars": 3,
-      "value": 215220,
+      "value": 215310,
       "target": 50000,
-      "completionInfo": "Total Season Challenges points: 215220",
+      "completionInfo": "Total Season Challenges points: 215310",
       "village": "home"
     },
     {
@@ -1332,9 +1334,9 @@
     {
       "name": "Not So Easy This Time",
       "stars": 3,
-      "value": 6065,
+      "value": 6068,
       "target": 2000,
-      "completionInfo": "Weaponized Town Halls destroyed: 6065",
+      "completionInfo": "Weaponized Town Halls destroyed: 6068",
       "village": "home"
     },
     {
@@ -1348,9 +1350,9 @@
     {
       "name": "Superb Work",
       "stars": 3,
-      "value": 406,
+      "value": 408,
       "target": 250,
-      "completionInfo": "Total times Super Troops boosted: 406",
+      "completionInfo": "Total times Super Troops boosted: 408",
       "village": "home"
     },
     {
