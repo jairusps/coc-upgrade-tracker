@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-05T05:45:48.527320+00:00",
+  "savedAt": "2026-11-05T14:17:00.438660+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -1062,9 +1062,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 6011,
+      "value": 6015,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 6011",
+      "completionInfo": "Total obstacles removed: 6015",
       "village": "home"
     },
     {
@@ -1110,33 +1110,33 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 252968,
+      "value": 253678,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 252968",
+      "completionInfo": "Total Walls destroyed: 253678",
       "village": "home"
     },
     {
       "name": "Humiliator",
       "stars": 3,
-      "value": 7060,
+      "value": 7074,
       "target": 2000,
-      "completionInfo": "Total Town Halls destroyed: 7060",
+      "completionInfo": "Total Town Halls destroyed: 7074",
       "village": "home"
     },
     {
       "name": "Union Buster",
       "stars": 3,
-      "value": 31976,
+      "value": 31982,
       "target": 2500,
-      "completionInfo": "Total Builder's Huts destroyed: 31976",
+      "completionInfo": "Total Builder's Huts destroyed: 31982",
       "village": "home"
     },
     {
       "name": "Conqueror",
       "stars": 3,
-      "value": 8016,
+      "value": 8030,
       "target": 5000,
-      "completionInfo": "Total multiplayer battles won: 8016",
+      "completionInfo": "Total multiplayer battles won: 8030",
       "village": "home"
     },
     {
@@ -1158,17 +1158,17 @@
     {
       "name": "Mortar Mauler",
       "stars": 3,
-      "value": 26145,
+      "value": 26146,
       "target": 5000,
-      "completionInfo": "Total Mortars destroyed: 26145",
+      "completionInfo": "Total Mortars destroyed: 26146",
       "village": "home"
     },
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 71611127,
+      "value": 71956067,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 71611127",
+      "completionInfo": "Total Dark Elixir looted: 71956067",
       "village": "home"
     },
     {
@@ -1214,9 +1214,9 @@
     {
       "name": "Anti-Artillery",
       "stars": 3,
-      "value": 4575,
+      "value": 4581,
       "target": 2000,
-      "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 4575",
+      "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 4581",
       "village": "home"
     },
     {
@@ -1318,9 +1318,9 @@
     {
       "name": "Well Seasoned",
       "stars": 3,
-      "value": 215310,
+      "value": 215400,
       "target": 50000,
-      "completionInfo": "Total Season Challenges points: 215310",
+      "completionInfo": "Total Season Challenges points: 215400",
       "village": "home"
     },
     {
@@ -1334,17 +1334,17 @@
     {
       "name": "Not So Easy This Time",
       "stars": 3,
-      "value": 6070,
+      "value": 6084,
       "target": 2000,
-      "completionInfo": "Weaponized Town Halls destroyed: 6070",
+      "completionInfo": "Weaponized Town Halls destroyed: 6084",
       "village": "home"
     },
     {
       "name": "Bust This!",
       "stars": 3,
-      "value": 22582,
+      "value": 22588,
       "target": 2500,
-      "completionInfo": "Total weaponized Builder's Huts destroyed: 22582",
+      "completionInfo": "Total weaponized Builder's Huts destroyed: 22588",
       "village": "home"
     },
     {
