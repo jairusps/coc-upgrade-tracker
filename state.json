@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-06T02:03:49.169117+00:00",
+  "savedAt": "2026-11-06T10:32:10.216866+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -13,7 +13,7 @@
     "bestBuilderBaseTrophies": 5121,
     "role": "member",
     "warPreference": "in",
-    "donations": 672,
+    "donations": 708,
     "donationsReceived": 0,
     "clanCapitalContributions": 4073690,
     "clan": {
@@ -438,7 +438,7 @@
       },
       {
         "name": "Diggy",
-        "level": 14,
+        "level": 15,
         "maxLevel": 15,
         "village": "home"
       },
@@ -476,7 +476,7 @@
     "heroes": [
       {
         "name": "Barbarian King",
-        "level": 104,
+        "level": 105,
         "maxLevel": 110,
         "equipment": [
           {
@@ -496,7 +496,7 @@
       },
       {
         "name": "Archer Queen",
-        "level": 104,
+        "level": 105,
         "maxLevel": 110,
         "equipment": [
           {
@@ -516,7 +516,7 @@
       },
       {
         "name": "Grand Warden",
-        "level": 79,
+        "level": 80,
         "maxLevel": 85,
         "equipment": [
           {
@@ -542,7 +542,7 @@
       },
       {
         "name": "Royal Champion",
-        "level": 52,
+        "level": 53,
         "maxLevel": 55,
         "equipment": [
           {
@@ -568,7 +568,7 @@
       },
       {
         "name": "Minion Prince",
-        "level": 92,
+        "level": 93,
         "maxLevel": 95,
         "equipment": [
           {
@@ -1062,9 +1062,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 6015,
+      "value": 6017,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 6015",
+      "completionInfo": "Total obstacles removed: 6017",
       "village": "home"
     },
     {
@@ -1110,9 +1110,9 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 253678,
+      "value": 253688,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 253678",
+      "completionInfo": "Total Walls destroyed: 253688",
       "village": "home"
     },
     {
@@ -1150,9 +1150,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 102867,
+      "value": 102902,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 102867",
+      "completionInfo": "Total capacity donated: 102902",
       "village": "home"
     },
     {
@@ -1166,9 +1166,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 71956067,
+      "value": 71980503,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 71956067",
+      "completionInfo": "Total Dark Elixir looted: 71980503",
       "village": "home"
     },
     {
@@ -1222,9 +1222,9 @@
     {
       "name": "Sharing is caring",
       "stars": 2,
-      "value": 5155,
+      "value": 5156,
       "target": 10000,
-      "completionInfo": "Total Spell capacity donated: 5155",
+      "completionInfo": "Total Spell capacity donated: 5156",
       "village": "home"
     },
     {
