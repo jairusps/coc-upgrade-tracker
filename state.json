@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-07T16:10:00.297861+00:00",
+  "savedAt": "2026-11-07T20:42:38.971185+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -13,7 +13,7 @@
     "bestBuilderBaseTrophies": 5121,
     "role": "member",
     "warPreference": "in",
-    "donations": 1040,
+    "donations": 1125,
     "donationsReceived": 0,
     "clanCapitalContributions": 4102344,
     "clan": {
@@ -1150,9 +1150,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 103106,
+      "value": 103161,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 103106",
+      "completionInfo": "Total capacity donated: 103161",
       "village": "home"
     },
     {
@@ -1358,9 +1358,9 @@
     {
       "name": "Siege Sharer",
       "stars": 2,
-      "value": 1478,
+      "value": 1479,
       "target": 5000,
-      "completionInfo": "Total Siege Machines donated: 1478",
+      "completionInfo": "Total Siege Machines donated: 1479",
       "village": "home"
     },
     {
