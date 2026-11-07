@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-07T02:36:27.433999+00:00",
+  "savedAt": "2026-11-07T09:44:21.159462+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -241,7 +241,6 @@
         "name": "Sneaky Goblin",
         "level": 1,
         "maxLevel": 6,
-        "superTroopIsActive": true,
         "village": "home"
       },
       {
@@ -1062,9 +1061,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 6019,
+      "value": 6021,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 6019",
+      "completionInfo": "Total obstacles removed: 6021",
       "village": "home"
     },
     {
@@ -1118,9 +1117,9 @@
     {
       "name": "Humiliator",
       "stars": 3,
-      "value": 7091,
+      "value": 7092,
       "target": 2000,
-      "completionInfo": "Total Town Halls destroyed: 7091",
+      "completionInfo": "Total Town Halls destroyed: 7092",
       "village": "home"
     },
     {
@@ -1134,9 +1133,9 @@
     {
       "name": "Conqueror",
       "stars": 3,
-      "value": 8047,
+      "value": 8048,
       "target": 5000,
-      "completionInfo": "Total multiplayer battles won: 8047",
+      "completionInfo": "Total multiplayer battles won: 8048",
       "village": "home"
     },
     {
@@ -1166,9 +1165,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 72124871,
+      "value": 72139700,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 72124871",
+      "completionInfo": "Total Dark Elixir looted: 72139700",
       "village": "home"
     },
     {
@@ -1190,9 +1189,9 @@
     {
       "name": "Firefighter",
       "stars": 3,
-      "value": 15301,
+      "value": 15304,
       "target": 5000,
-      "completionInfo": "Total Inferno Towers destroyed: 15301",
+      "completionInfo": "Total Inferno Towers destroyed: 15304",
       "village": "home"
     },
     {
@@ -1334,9 +1333,9 @@
     {
       "name": "Not So Easy This Time",
       "stars": 3,
-      "value": 6101,
+      "value": 6102,
       "target": 2000,
-      "completionInfo": "Weaponized Town Halls destroyed: 6101",
+      "completionInfo": "Weaponized Town Halls destroyed: 6102",
       "village": "home"
     },
     {
@@ -1454,9 +1453,9 @@
     {
       "name": "Crafter’s Nightmare",
       "stars": 2,
-      "value": 1113,
+      "value": 1114,
       "target": 2000,
-      "completionInfo": "Total Crafted Defenses Destroyed: 1113",
+      "completionInfo": "Total Crafted Defenses Destroyed: 1114",
       "village": "home"
     },
     {
