@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-10T22:11:48.401900+00:00",
+  "savedAt": "2026-11-11T02:36:05.939010+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -1061,9 +1061,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 6036,
+      "value": 6038,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 6036",
+      "completionInfo": "Total obstacles removed: 6038",
       "village": "home"
     },
     {
@@ -1109,33 +1109,33 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 257229,
+      "value": 257255,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 257229",
+      "completionInfo": "Total Walls destroyed: 257255",
       "village": "home"
     },
     {
       "name": "Humiliator",
       "stars": 3,
-      "value": 7151,
+      "value": 7152,
       "target": 2000,
-      "completionInfo": "Total Town Halls destroyed: 7151",
+      "completionInfo": "Total Town Halls destroyed: 7152",
       "village": "home"
     },
     {
       "name": "Union Buster",
       "stars": 3,
-      "value": 32160,
+      "value": 32162,
       "target": 2500,
-      "completionInfo": "Total Builder's Huts destroyed: 32160",
+      "completionInfo": "Total Builder's Huts destroyed: 32162",
       "village": "home"
     },
     {
       "name": "Conqueror",
       "stars": 3,
-      "value": 8109,
+      "value": 8110,
       "target": 5000,
-      "completionInfo": "Total multiplayer battles won: 8109",
+      "completionInfo": "Total multiplayer battles won: 8110",
       "village": "home"
     },
     {
@@ -1165,9 +1165,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 73105310,
+      "value": 73119517,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 73105310",
+      "completionInfo": "Total Dark Elixir looted: 73119517",
       "village": "home"
     },
     {
@@ -1333,17 +1333,17 @@
     {
       "name": "Not So Easy This Time",
       "stars": 3,
-      "value": 6161,
+      "value": 6162,
       "target": 2000,
-      "completionInfo": "Weaponized Town Halls destroyed: 6161",
+      "completionInfo": "Weaponized Town Halls destroyed: 6162",
       "village": "home"
     },
     {
       "name": "Bust This!",
       "stars": 3,
-      "value": 22766,
+      "value": 22768,
       "target": 2500,
-      "completionInfo": "Total weaponized Builder's Huts destroyed: 22766",
+      "completionInfo": "Total weaponized Builder's Huts destroyed: 22768",
       "village": "home"
     },
     {
