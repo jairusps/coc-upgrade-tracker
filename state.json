@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-12T23:29:07.092725+00:00",
+  "savedAt": "2026-11-13T05:43:15.753000+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -13,7 +13,7 @@
     "bestBuilderBaseTrophies": 5121,
     "role": "member",
     "warPreference": "in",
-    "donations": 3031,
+    "donations": 3119,
     "donationsReceived": 89,
     "clanCapitalContributions": 4102344,
     "clan": {
@@ -1150,9 +1150,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 104311,
+      "value": 104366,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 104311",
+      "completionInfo": "Total capacity donated: 104366",
       "village": "home"
     },
     {
@@ -1222,9 +1222,9 @@
     {
       "name": "Sharing is caring",
       "stars": 2,
-      "value": 5230,
+      "value": 5233,
       "target": 10000,
-      "completionInfo": "Total Spell capacity donated: 5230",
+      "completionInfo": "Total Spell capacity donated: 5233",
       "village": "home"
     },
     {
@@ -1358,9 +1358,9 @@
     {
       "name": "Siege Sharer",
       "stars": 2,
-      "value": 1502,
+      "value": 1503,
       "target": 5000,
-      "completionInfo": "Total Siege Machines donated: 1502",
+      "completionInfo": "Total Siege Machines donated: 1503",
       "village": "home"
     },
     {
@@ -1406,9 +1406,9 @@
     {
       "name": "Supercharger",
       "stars": 1,
-      "value": 15,
+      "value": 22,
       "target": 25,
-      "completionInfo": "Total Supercharges: 15",
+      "completionInfo": "Total Supercharges: 22",
       "village": "home"
     },
     {
