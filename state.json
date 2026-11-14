@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-14T02:01:39.197093+00:00",
+  "savedAt": "2026-11-14T09:54:59.617223+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -7,14 +7,14 @@
     "expLevel": 238,
     "trophies": 0,
     "bestTrophies": 5070,
-    "warStars": 1957,
+    "warStars": 1959,
     "builderHallLevel": 10,
     "builderBaseTrophies": 4925,
     "bestBuilderBaseTrophies": 5121,
     "role": "member",
     "warPreference": "in",
     "donations": 3237,
-    "donationsReceived": 89,
+    "donationsReceived": 178,
     "clanCapitalContributions": 4126832,
     "clan": {
       "tag": "#2P0GLJ0CC",
@@ -1165,9 +1165,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 74180706,
+      "value": 74181846,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 74180706",
+      "completionInfo": "Total Dark Elixir looted: 74181846",
       "village": "home"
     },
     {
@@ -1197,9 +1197,9 @@
     {
       "name": "War Hero",
       "stars": 3,
-      "value": 1957,
+      "value": 1959,
       "target": 1000,
-      "completionInfo": "Total Stars scored for clan in Clan War battles: 1957",
+      "completionInfo": "Total Stars scored for clan in Clan War battles: 1959",
       "village": "home"
     },
     {
@@ -1405,9 +1405,9 @@
     {
       "name": "Supercharger",
       "stars": 2,
-      "value": 29,
+      "value": 36,
       "target": 75,
-      "completionInfo": "Total Supercharges: 29",
+      "completionInfo": "Total Supercharges: 36",
       "village": "home"
     },
     {
