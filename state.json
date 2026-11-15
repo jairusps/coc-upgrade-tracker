@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-15T16:11:28.205559+00:00",
+  "savedAt": "2026-11-15T21:30:18.077937+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -1061,9 +1061,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 6056,
+      "value": 6057,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 6056",
+      "completionInfo": "Total obstacles removed: 6057",
       "village": "home"
     },
     {
@@ -1109,9 +1109,9 @@
     {
       "name": "Wall Buster",
       "stars": 3,
-      "value": 261021,
+      "value": 261048,
       "target": 2000,
-      "completionInfo": "Total Walls destroyed: 261021",
+      "completionInfo": "Total Walls destroyed: 261048",
       "village": "home"
     },
     {
@@ -1157,17 +1157,17 @@
     {
       "name": "Mortar Mauler",
       "stars": 3,
-      "value": 26477,
+      "value": 26479,
       "target": 5000,
-      "completionInfo": "Total Mortars destroyed: 26477",
+      "completionInfo": "Total Mortars destroyed: 26479",
       "village": "home"
     },
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 74421807,
+      "value": 74435507,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 74421807",
+      "completionInfo": "Total Dark Elixir looted: 74435507",
       "village": "home"
     },
     {
@@ -1181,17 +1181,17 @@
     {
       "name": "X-Bow Exterminator",
       "stars": 3,
-      "value": 22138,
+      "value": 22139,
       "target": 2500,
-      "completionInfo": "Total X-Bows destroyed: 22138",
+      "completionInfo": "Total X-Bows destroyed: 22139",
       "village": "home"
     },
     {
       "name": "Firefighter",
       "stars": 3,
-      "value": 15489,
+      "value": 15490,
       "target": 5000,
-      "completionInfo": "Total Inferno Towers destroyed: 15489",
+      "completionInfo": "Total Inferno Towers destroyed: 15490",
       "village": "home"
     },
     {
@@ -1325,9 +1325,9 @@
     {
       "name": "Shattered and Scattered",
       "stars": 3,
-      "value": 9396,
+      "value": 9397,
       "target": 4000,
-      "completionInfo": "Total Scattershots destroyed: 9396",
+      "completionInfo": "Total Scattershots destroyed: 9397",
       "village": "home"
     },
     {
@@ -1381,9 +1381,9 @@
     {
       "name": "Counterspell",
       "stars": 3,
-      "value": 8331,
+      "value": 8332,
       "target": 4000,
-      "completionInfo": "Total Spell Towers Destroyed: 8331",
+      "completionInfo": "Total Spell Towers Destroyed: 8332",
       "village": "home"
     },
     {
@@ -1421,25 +1421,25 @@
     {
       "name": "Ricochet Cannon Crusher",
       "stars": 3,
-      "value": 7558,
+      "value": 7559,
       "target": 5000,
-      "completionInfo": "Total Ricochet Cannons Destroyed: 7558",
+      "completionInfo": "Total Ricochet Cannons Destroyed: 7559",
       "village": "home"
     },
     {
       "name": "Firespitter Finisher",
       "stars": 2,
-      "value": 3841,
+      "value": 3842,
       "target": 4000,
-      "completionInfo": "Total Firespitters Destroyed: 3841",
+      "completionInfo": "Total Firespitters Destroyed: 3842",
       "village": "home"
     },
     {
       "name": "Multi-Gear Tower Trampler",
       "stars": 2,
-      "value": 1873,
+      "value": 1874,
       "target": 2000,
-      "completionInfo": "Total Multi-Gear Towers Destroyed: 1873",
+      "completionInfo": "Total Multi-Gear Towers Destroyed: 1874",
       "village": "home"
     },
     {
