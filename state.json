@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-18T03:23:40.605832+00:00",
+  "savedAt": "2026-11-18T12:45:24.786444+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -13,7 +13,7 @@
     "bestBuilderBaseTrophies": 5121,
     "role": "member",
     "warPreference": "in",
-    "donations": 3766,
+    "donations": 3825,
     "donationsReceived": 386,
     "clanCapitalContributions": 4126832,
     "clan": {
@@ -1148,9 +1148,9 @@
     {
       "name": "Friend in Need",
       "stars": 3,
-      "value": 104806,
+      "value": 104861,
       "target": 25000,
-      "completionInfo": "Total capacity donated: 104806",
+      "completionInfo": "Total capacity donated: 104861",
       "village": "home"
     },
     {
@@ -1220,9 +1220,9 @@
     {
       "name": "Sharing is caring",
       "stars": 2,
-      "value": 5260,
+      "value": 5264,
       "target": 10000,
-      "completionInfo": "Total Spell capacity donated: 5260",
+      "completionInfo": "Total Spell capacity donated: 5264",
       "village": "home"
     },
     {
