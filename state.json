@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-11-21T22:53:47.962641+00:00",
+  "savedAt": "2026-11-22T02:53:01.378776+00:00",
   "player": {
     "tag": "#LL9YPR90P",
     "name": "jairus paul",
@@ -7,7 +7,7 @@
     "expLevel": 239,
     "trophies": 757,
     "bestTrophies": 5070,
-    "warStars": 1973,
+    "warStars": 1975,
     "builderHallLevel": 10,
     "builderBaseTrophies": 4925,
     "bestBuilderBaseTrophies": 5121,
@@ -1067,9 +1067,9 @@
     {
       "name": "Nice and Tidy",
       "stars": 3,
-      "value": 6082,
+      "value": 6083,
       "target": 500,
-      "completionInfo": "Total obstacles removed: 6082",
+      "completionInfo": "Total obstacles removed: 6083",
       "village": "home"
     },
     {
@@ -1171,9 +1171,9 @@
     {
       "name": "Heroic Heist",
       "stars": 3,
-      "value": 75094592,
+      "value": 75095812,
       "target": 1000000,
-      "completionInfo": "Total Dark Elixir looted: 75094592",
+      "completionInfo": "Total Dark Elixir looted: 75095812",
       "village": "home"
     },
     {
@@ -1203,9 +1203,9 @@
     {
       "name": "War Hero",
       "stars": 3,
-      "value": 1973,
+      "value": 1975,
       "target": 1000,
-      "completionInfo": "Total Stars scored for clan in Clan War battles: 1973",
+      "completionInfo": "Total Stars scored for clan in Clan War battles: 1975",
       "village": "home"
     },
     {
@@ -1323,9 +1323,9 @@
     {
       "name": "Well Seasoned",
       "stars": 3,
-      "value": 216790,
+      "value": 216840,
       "target": 50000,
-      "completionInfo": "Total Season Challenges points: 216790",
+      "completionInfo": "Total Season Challenges points: 216840",
       "village": "home"
     },
     {
